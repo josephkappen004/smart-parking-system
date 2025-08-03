@@ -43,11 +43,11 @@ ________________________________________
 How It Works
 
   1.	IR sensors detect vehicle presence in each slot.
-  2.	
-  3.	Arduino processes sensor input and updates LCD and ESP8266.
-  4.	
-  5.	ESP8266 sends real-time status to the Blynk cloud.
-  6.	
-  7.	Flutter app fetches and displays slot data using the Blynk API.
-  8.	
-  9.	Gate opens automatically if a free slot is available.
+     
+  2.	Arduino processes sensor input and updates LCD and ESP8266.
+  	
+  3.	ESP8266 sends real-time status to the Blynk cloud.
+  	
+  4.	Flutter app fetches and displays slot data using the Blynk API.
+  	
+  5.	Gate opens automatically if a free slot is available.
